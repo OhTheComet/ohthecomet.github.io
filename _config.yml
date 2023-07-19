@@ -1,7 +1,7 @@
 title: OhTheComet
 description: Information Security
 author: Oh Hye Seong
-avatar: /logo.png
+avatar: /logo.jpg
 email: ohthecomeths@gmail.com
 
 plugins:
@@ -29,7 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-logo: logo.png
+logo: logo.jpg
 social:
   name: OhTheComet
   links:
