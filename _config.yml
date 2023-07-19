@@ -12,7 +12,7 @@ plugins:
   - jekyll-theme-hamilton
   - jekyll-theme-theme
 
-  remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
