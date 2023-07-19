@@ -1,6 +1,6 @@
 title: OhTheComet
 description: Information Security
-author: Oh Hye Seong
+author: OTC
 avatar: /logo.jpg
 email: ohthecomeths@gmail.com
 
@@ -31,7 +31,7 @@ exclude:
 # =========================
 logo: logo.jpg
 social:
-  name: OhTheComet
+  name: OTC
   links:
     - https://github.com/OhTheComet
 google_site_verification: QVTOYAcCbFXrV32CqaFbhNYuNzBA75dzHaAdkuNktUs
