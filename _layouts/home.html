@@ -12,10 +12,8 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-  {% if posts.size == 0 %}
-    Empty
-  {% endif %}
   {% if posts.size > 0 %}
+    <span>abcd</span>
     <ul class="post-list">
       {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
       {% for post in posts %}
