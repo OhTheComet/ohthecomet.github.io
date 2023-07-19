@@ -8,10 +8,10 @@ layout: default
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
-    <sapn>There's paginate and {{ paginator.total_posts }} {{ posts }}</sapn>
+    <sapn>There's paginate</sapn>
   {% else %}
     {% assign posts = site.posts %}
-    <sapn>There's no paginate and {{ posts }}</sapn>
+    <sapn>There's no paginate</sapn>
   {% endif %}
 
   <sapn>{{ posts.size }}</sapn>

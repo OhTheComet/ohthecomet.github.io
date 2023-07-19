@@ -11,6 +11,8 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
+paginate_path: ./page:num/
+
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
