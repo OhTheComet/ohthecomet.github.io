@@ -3,8 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  <span>abcd
-  </span>
 
   {{ content }}
 
@@ -13,6 +11,8 @@ layout: default
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
+
+  <sapn>{{ posts.size }}</sapn>
 
   {% if posts.size > 0 %}
     <span>abcd</span>
