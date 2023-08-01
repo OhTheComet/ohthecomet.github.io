@@ -1,0 +1,9 @@
+---
+layout: post
+toc: true
+title: "CPPG 공부 1일차"
+date: 2023-08-01 20:00:00 +0900
+categories: CPPG
+tags: [CPPG, 개인정보보호법]
+---
+
