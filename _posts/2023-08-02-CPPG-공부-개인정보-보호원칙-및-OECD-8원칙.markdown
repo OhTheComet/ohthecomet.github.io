@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "CPPG 공부 : 개개인정보 보호원칙 및 OECD 8원칙"
+title: "CPPG 공부 : 개인정보 보호원칙 및 OECD 8원칙"
 date: 2023-08-02 15:00:00 +0900
 categories: CPPG
 tags: [CPPG, 개인정보보호법, OECD]
