@@ -19,9 +19,9 @@ skin: midnight
 # 
 # google_analytics: 
 
-# Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
+disqus:
+  comments: true
+  shortname: ohthecomet-github-io
 
 # Jekyll
 # ======
