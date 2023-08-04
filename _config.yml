@@ -19,9 +19,7 @@ skin: midnight
 # 
 # google_analytics: 
 
-disqus:
-  comments: true
-  shortname: ohthecomet-github-io
+disqus: ohthecomet-github-io
 
 # Jekyll
 # ======
