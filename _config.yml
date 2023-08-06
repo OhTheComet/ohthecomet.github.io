@@ -23,6 +23,8 @@ disqus: ohthecomet-github-io
 
 date_format: "%m/%d/%Y %a %I %p"
 
+timezone: Asia/Seoul
+
 # Jekyll
 # ======
 exclude:
