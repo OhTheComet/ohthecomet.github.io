@@ -21,7 +21,7 @@ google_analytics: G-JW18T8VT6V
 
 disqus: ohthecomet-github-io
 
-date_format: "%m/%d/%Y %a %I%p"
+date_format: "%m/%d/%Y %a %i%p"
 
 timezone: Asia/Seoul
 
