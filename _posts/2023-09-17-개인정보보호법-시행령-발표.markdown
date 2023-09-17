@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: false
-title: "개인정보보호법 보호위원회 2편"
+title: "개인정보보호법 시행령 발표"
 date: 2023-09-17 20:00:00 +0900
 categories: 잡담
 tags: [개인정보보호법]
